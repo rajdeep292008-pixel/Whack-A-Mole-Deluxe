@@ -54,3 +54,5 @@ StorageManager: Handles localStorage access to ensure your "All-Time Best" score
 
 ---
 
+Made with 💚 with the help of AI.
+
